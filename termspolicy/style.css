@@ -1,0 +1,39 @@
+/* Set a default font family and size for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Center the page content */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style the page title */
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Style the paragraphs */
+  p {
+    margin-bottom: 20px;
+  }
+  
+  /* Set a light gray background color for the page */
+  body {
+    background-color: #f5f5f5;
+  }
+  
+  /* Set a white background color for the container */
+  .container {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
